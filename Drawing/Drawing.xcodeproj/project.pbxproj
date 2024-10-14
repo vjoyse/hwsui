@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C75304D42BBDADB10090B799 /* 06_ColorCyclingCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75304D32BBDADB10090B799 /* 06_ColorCyclingCircle.swift */; };
+		C75304D62BBDB6DD0090B799 /* 07_BlursBlendandMore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75304D52BBDB6DD0090B799 /* 07_BlursBlendandMore.swift */; };
+		C75AE3352BC087970022F6E4 /* 08_BlendOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75AE3342BC087970022F6E4 /* 08_BlendOptions.swift */; };
+		C75AE3372BC08A370022F6E4 /* 09_Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75AE3362BC08A370022F6E4 /* 09_Animation.swift */; };
+		C75AE3392BC08F920022F6E4 /* 10_AnimatablePair.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75AE3382BC08F920022F6E4 /* 10_AnimatablePair.swift */; };
+		C75AE33F2BC0B4470022F6E4 /* 11_Spirograph.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75AE33E2BC0B4470022F6E4 /* 11_Spirograph.swift */; };
 		C7EB393D2B9B7A0C00AE4560 /* DrawingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EB393C2B9B7A0C00AE4560 /* DrawingApp.swift */; };
 		C7EB393F2B9B7A0C00AE4560 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EB393E2B9B7A0C00AE4560 /* ContentView.swift */; };
 		C7EB39412B9B7A0D00AE4560 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7EB39402B9B7A0D00AE4560 /* Assets.xcassets */; };
 		C7EB39442B9B7A0D00AE4560 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7EB39432B9B7A0D00AE4560 /* Preview Assets.xcassets */; };
+		C7EB394B2B9B844D00AE4560 /* 01_Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EB394A2B9B844D00AE4560 /* 01_Path.swift */; };
+		C7EB394F2B9BA1A400AE4560 /* 02_Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EB394E2B9BA1A400AE4560 /* 02_Shapes.swift */; };
+		C7EB39512B9BA7EE00AE4560 /* 03_InsettableShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EB39502B9BA7EE00AE4560 /* 03_InsettableShape.swift */; };
+		C7EB39532B9BAAD400AE4560 /* 04_Transform.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EB39522B9BAAD400AE4560 /* 04_Transform.swift */; };
+		C7EB39552B9BB02100AE4560 /* 05_ImagePaint.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7EB39542B9BB02100AE4560 /* 05_ImagePaint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C75304D32BBDADB10090B799 /* 06_ColorCyclingCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 06_ColorCyclingCircle.swift; sourceTree = "<group>"; };
+		C75304D52BBDB6DD0090B799 /* 07_BlursBlendandMore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 07_BlursBlendandMore.swift; sourceTree = "<group>"; };
+		C75AE3342BC087970022F6E4 /* 08_BlendOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 08_BlendOptions.swift; sourceTree = "<group>"; };
+		C75AE3362BC08A370022F6E4 /* 09_Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 09_Animation.swift; sourceTree = "<group>"; };
+		C75AE3382BC08F920022F6E4 /* 10_AnimatablePair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10_AnimatablePair.swift; sourceTree = "<group>"; };
+		C75AE33E2BC0B4470022F6E4 /* 11_Spirograph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11_Spirograph.swift; sourceTree = "<group>"; };
 		C7EB39392B9B7A0C00AE4560 /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7EB393C2B9B7A0C00AE4560 /* DrawingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingApp.swift; sourceTree = "<group>"; };
 		C7EB393E2B9B7A0C00AE4560 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C7EB39402B9B7A0D00AE4560 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7EB39432B9B7A0D00AE4560 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C7EB394A2B9B844D00AE4560 /* 01_Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 01_Path.swift; sourceTree = "<group>"; };
+		C7EB394E2B9BA1A400AE4560 /* 02_Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 02_Shapes.swift; sourceTree = "<group>"; };
+		C7EB39502B9BA7EE00AE4560 /* 03_InsettableShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 03_InsettableShape.swift; sourceTree = "<group>"; };
+		C7EB39522B9BAAD400AE4560 /* 04_Transform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 04_Transform.swift; sourceTree = "<group>"; };
+		C7EB39542B9BB02100AE4560 /* 05_ImagePaint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 05_ImagePaint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +77,17 @@
 				C7EB393E2B9B7A0C00AE4560 /* ContentView.swift */,
 				C7EB39402B9B7A0D00AE4560 /* Assets.xcassets */,
 				C7EB39422B9B7A0D00AE4560 /* Preview Content */,
+				C7EB394A2B9B844D00AE4560 /* 01_Path.swift */,
+				C7EB394E2B9BA1A400AE4560 /* 02_Shapes.swift */,
+				C7EB39502B9BA7EE00AE4560 /* 03_InsettableShape.swift */,
+				C7EB39522B9BAAD400AE4560 /* 04_Transform.swift */,
+				C7EB39542B9BB02100AE4560 /* 05_ImagePaint.swift */,
+				C75304D32BBDADB10090B799 /* 06_ColorCyclingCircle.swift */,
+				C75304D52BBDB6DD0090B799 /* 07_BlursBlendandMore.swift */,
+				C75AE3342BC087970022F6E4 /* 08_BlendOptions.swift */,
+				C75AE3362BC08A370022F6E4 /* 09_Animation.swift */,
+				C75AE3382BC08F920022F6E4 /* 10_AnimatablePair.swift */,
+				C75AE33E2BC0B4470022F6E4 /* 11_Spirograph.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -138,7 +171,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7EB393F2B9B7A0C00AE4560 /* ContentView.swift in Sources */,
+				C75AE33F2BC0B4470022F6E4 /* 11_Spirograph.swift in Sources */,
+				C7EB39552B9BB02100AE4560 /* 05_ImagePaint.swift in Sources */,
+				C75AE3372BC08A370022F6E4 /* 09_Animation.swift in Sources */,
+				C75AE3352BC087970022F6E4 /* 08_BlendOptions.swift in Sources */,
+				C7EB394B2B9B844D00AE4560 /* 01_Path.swift in Sources */,
+				C7EB39512B9BA7EE00AE4560 /* 03_InsettableShape.swift in Sources */,
 				C7EB393D2B9B7A0C00AE4560 /* DrawingApp.swift in Sources */,
+				C75304D42BBDADB10090B799 /* 06_ColorCyclingCircle.swift in Sources */,
+				C75AE3392BC08F920022F6E4 /* 10_AnimatablePair.swift in Sources */,
+				C7EB39532B9BAAD400AE4560 /* 04_Transform.swift in Sources */,
+				C75304D62BBDB6DD0090B799 /* 07_BlursBlendandMore.swift in Sources */,
+				C7EB394F2B9BA1A400AE4560 /* 02_Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
